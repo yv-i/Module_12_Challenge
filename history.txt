@@ -8,3 +8,13 @@
   509  git push
   510  touch history.txt
   511  history 10 > history.txt 
+  513  git status
+  514  git add .
+  515  git commit -m 'added command history and split df'
+  516  git push
+  517  git status
+  518  git add .
+  519  git commit -m 
+  520  git commit -m 'stopped at step 4 --- raw mathed the balance_accuracy score --- included source'
+  521  git push
+  522  history 10 >> history.txt 
