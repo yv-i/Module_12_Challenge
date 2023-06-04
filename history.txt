@@ -1,0 +1,10 @@
+  502  git clone git@github.com:yv-i/Module_12_Challenge.git
+  503  code .
+  504  cd Module_12_Challenge/
+  505  git status
+  506  git add .
+  507  git status
+  508  git commit -m 'added project files'
+  509  git push
+  510  touch history.txt
+  511  history 10 > history.txt 
