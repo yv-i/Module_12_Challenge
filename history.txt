@@ -18,3 +18,13 @@
   520  git commit -m 'stopped at step 4 --- raw mathed the balance_accuracy score --- included source'
   521  git push
   522  history 10 >> history.txt 
+  504  ls
+  505  cd Module_12_Challenge/
+  506  lss
+  507  ls
+  508  git status
+  509  git add .
+  510  git status
+  511  git commit -m 'stuck on RandomOverSampler --- model too efficient and not sure how to troubleshoot'
+  512  git push
+  513  history 10 >> history.txt
